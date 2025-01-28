@@ -1,2 +1,2 @@
 # Data-Analysis-with-Python
-Repositório que contém analises de dados utilizando a linguagem Python
+## Neste repositório você irá encontrar analises exploratórias e diagnósticas utilizando a linguagem Python.
